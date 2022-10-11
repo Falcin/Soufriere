@@ -6,6 +6,6 @@ Falcin A., J-P Metaxian, J. Mars, E. Stutzmann, J-C Komorowski, R Moretti, M. Ma
 
 Falcin, A. (2022). Détection et classification des signaux sismo-volcaniques de la Soufrière de Guadeloupe par apprentissage supervisé.
 
-The archichecture of the code is built by Marielle Malfante and available at : https://github.com/malfante/AAA
+These codes are based on the code Automatic Analysis Architecture, M. MALFANTE, J. MARS, M. DALLA MURA available at : https://github.com/malfante/AAA
 
 Read and install Marielle Malfante's code before dealing with this work.
