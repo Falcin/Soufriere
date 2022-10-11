@@ -8,3 +8,4 @@ Falcin, A. (2022). Détection et classification des signaux sismo-volcaniques de
 
 The archichecture of the code is built by Marielle Malfante and available at : https://github.com/malfante/AAA
 
+Read and install Marielle Malfante's code before dealing with this work.
