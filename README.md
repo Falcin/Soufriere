@@ -9,3 +9,5 @@ Falcin, A. (2022). Détection et classification des signaux sismo-volcaniques de
 These codes are based on the code Automatic Analysis Architecture, M. MALFANTE, J. MARS, M. DALLA MURA available at : https://github.com/malfante/AAA
 
 Read and install Marielle Malfante's code before dealing with this work.
+
+The scripts that are modified from Automatic Analysis Architecture will be specified with Modif_ in the title.
